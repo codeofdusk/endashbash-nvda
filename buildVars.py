@@ -42,7 +42,7 @@ addon_info = {
 		)
 	),
 	# version
-	"addon_version": "1.0.0",
+	"addon_version": "1.0.1",
 	# Author(s)
 	"addon_author": "Bill Dengler <codeofdusk@gmail.com>",
 	# URL for the add-on documentation support
@@ -54,7 +54,7 @@ addon_info = {
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
 	"addon_minimumNVDAVersion": "2024.1.0",
 	# Last NVDA version supported/tested (e.g. "2018.4.0", ideally more recent than minimum version)
-	"addon_lastTestedNVDAVersion": "2024.1.0",
+	"addon_lastTestedNVDAVersion": "2025.1.0",
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
